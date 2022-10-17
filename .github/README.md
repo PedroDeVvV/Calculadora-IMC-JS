@@ -2,7 +2,7 @@
 
 ![preview](./imagemgif.gif)
 
-Projeto construído com o objetivo de por em prática o conhecimento adquirido até o momento.
+Projeto construído com o objetivo de colocar em prática o conhecimento adquirido até o momento.
 
 🔗[Clique aqui para acessar](https://pedrodevvv.github.io/Calculadora-IMC-JS/)
 
@@ -20,6 +20,6 @@ Reunir em um só projeto todos os recursos aprendidos até o momento, sendo eles
 
 ## 📞 Contato
 
-pedrohgs2004@gmail.com <br>
+E-mail: pedrohgs2004@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/pedro-henrique-g-silva-a2100a23a/?originalSubdomain=br
 
