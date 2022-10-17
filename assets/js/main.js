@@ -63,16 +63,3 @@ function setResultado (msg, isValid) { //enviando mensagem para a div resultado
   p.innerHTML = msg;
   resultado.appendChild(p); //inserindo um filho (p) na div resultado
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

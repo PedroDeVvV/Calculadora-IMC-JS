@@ -1,6 +1,6 @@
 # Calculadora de índice de massa corporal crida em JavaScript
 
-![preview](./127.0.0.1_5500_index.html%20(1).png)
+![preview](./imagemgif.gif)
 
 Projeto construído com o objetivo de por em prática o conhecimento adquirido até o momento.
 
