@@ -2,7 +2,7 @@
 
 ![preview](./imagemgif.gif)
 
-Projeto construído com o objetivo de por em prática o conhecimento adquirido até o momento.
+Projeto construído com o objetivo de colocar em prática o conhecimento adquirido até o momento.
 
 🔗[Clique aqui para acessar](https://pedrodevvv.github.io/Calculadora-IMC-JS/)
 
