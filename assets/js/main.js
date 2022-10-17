@@ -20,7 +20,6 @@ form.addEventListener('submit', function (e) { // Capturar evento de submit (env
 
   const imc = getImc(peso, altura);
   const nivelImc = getNivelImc(imc);
-
   const msg = `Seu IMC é ${imc} (${nivelImc}).`;
 
   setResultado(msg, true);
