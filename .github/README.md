@@ -4,7 +4,7 @@
 
 Projeto construído com o objetivo de por em prática o conhecimento adquirido até o momento.
 
-🔗[Clique aqui para acessar](https://pedrodevvv.github.io/Link-Page-NLW)
+🔗[Clique aqui para acessar](https://pedrodevvv.github.io/Calculadora-IMC-JS/)
 
 
 
